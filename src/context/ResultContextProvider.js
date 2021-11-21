@@ -17,7 +17,7 @@ function ResultContextProvider({ children }) {
         "x-user-agent": "desktop",
         "x-proxy-location": "US",
         "x-rapidapi-host": "google-search3.p.rapidapi.com",
-        "x-rapidapi-key": "",
+        "x-rapidapi-key": "API_KEY",
       },
     });
 
